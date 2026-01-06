@@ -20,18 +20,14 @@ class Dictionary {
             "WELL", "WENT", "WERE", "WHAT", "WHEN", "WITH", "BACK", "BEEN", "BEFORE",
             "BEST", "BOTH", "CAME", "CALL", "COME", "COULD", "EACH", "FIND", "FIRST",
             "FROM", "GIVE", "HAVE", "HERE", "INTO", "JUST", "KNOW", "LAST", "LIKE",
-            "LOOK", "MADE", "MAKE", "MORE", "MOST", "MUCH", "MUST", "NAME", "NEVER",
-            "NEXT", "ONLY", "OTHER", "OVER", "PART", "PEOPLE", "PLACE", "RIGHT", "SAID",
-            "SOME", "STILL", "SUCH", "TAKE", "TELL", "THAN", "THAT", "THEIR", "THERE",
-            "THESE", "THING", "THINK", "THIS", "THREE", "THROUGH", "TIME", "UNDER",
-            "VERY", "WANT", "WATER", "WELL", "WERE", "WHAT", "WHERE", "WHICH", "WHILE",
-            "WILL", "WITH", "WOULD", "WRITE", "YEAR", "YOUR", "ABOUT", "AFTER", "AGAIN",
-            "ALSO", "ANOTHER", "AROUND", "BECAUSE", "BEFORE", "BETWEEN", "COULD",
-            "DIFFERENT", "EVERY", "FOUND", "GREAT", "HOUSE", "LARGE", "LITTLE",
-            "NEVER", "NUMBER", "OTHER", "PLACE", "POINT", "RIGHT", "SCHOOL", "SHOULD",
-            "SMALL", "STILL", "THEIR", "THERE", "THESE", "THING", "THINK", "THOSE",
-            "THREE", "THROUGH", "UNDER", "UNTIL", "WHERE", "WHICH", "WHILE", "WORLD",
-            "WOULD", "WRITE", "YEARS", "BOGGLE", "BOARD", "LETTER", "QUEST", "SUPER"
+            "LOOK", "MADE", "MORE", "MOST", "MUCH", "MUST", "NAME", "NEVER", "NEXT",
+            "ONLY", "OTHER", "PEOPLE", "PLACE", "RIGHT", "SAID", "SOME", "STILL",
+            "TELL", "THEIR", "THERE", "THESE", "THING", "THINK", "THREE", "THROUGH",
+            "UNDER", "WHERE", "WHICH", "WHILE", "WILL", "WOULD", "WRITE", "YOUR",
+            "ABOUT", "AFTER", "AGAIN", "ALSO", "ANOTHER", "AROUND", "BECAUSE",
+            "BETWEEN", "DIFFERENT", "EVERY", "FOUND", "HOUSE", "LARGE", "LITTLE",
+            "NUMBER", "POINT", "SCHOOL", "SHOULD", "SMALL", "THOSE", "UNTIL", "WORLD",
+            "YEARS", "BOGGLE", "BOARD", "LETTER", "QUEST", "SUPER"
         )
     }
     

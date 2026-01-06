@@ -25,15 +25,6 @@ class BoggleBoard(private val mode: GameMode) {
                 board[i][j] = letters[Random.nextInt(letters.length)]
             }
         }
-        // Add 'Qu' possibility (in standard Boggle, Q is always followed by U)
-        val quCount = Random.nextInt(1, 3)
-        repeat(quCount) {
-            val row = Random.nextInt(size)
-            val col = Random.nextInt(size)
-            if (board[row][col] == 'Q') {
-                // Already has Q, that's fine
-            }
-        }
     }
     
     /**
@@ -66,7 +57,7 @@ class BoggleBoard(private val mode: GameMode) {
             }
             sb.appendLine("|")
         }
-        sb.appendLine("=" .repeat(size * 4 + 1))
+        sb.appendLine("=".repeat(size * 4 + 1))
         return sb.toString()
     }
     
